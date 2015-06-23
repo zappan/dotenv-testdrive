@@ -1,0 +1,22 @@
+{
+  "name": "dotenv-testdrive",
+  "version": "1.0.0",
+  "description": "DotEnv npm module test drive app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zappan/dotenv-testdrive.git"
+  },
+  "author": "Tomislav Capan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zappan/dotenv-testdrive/issues"
+  },
+  "homepage": "https://github.com/zappan/dotenv-testdrive",
+  "dependencies": {
+    "dotenv": "^1.2.0"
+  }
+}
